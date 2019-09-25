@@ -17,7 +17,7 @@ public class FifthLessonActivity extends BaseActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fifth_lesson);
-
+//      First
         CarComponent carComponent = DaggerCarComponent.create();
         carComponent.inject(this);
         car.drive();

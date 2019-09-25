@@ -6,6 +6,7 @@ import com.dagger2.activity.SixthLessonActivity;
 import com.dagger2.activity.ThirdLessonActivity;
 import com.dagger2.classes.Car;
 import com.dagger2.modules.DisealEngineModule;
+import com.dagger2.modules.DisealEngineModule1;
 import com.dagger2.modules.WheelsModule;
 
 import dagger.Component;
